@@ -1,0 +1,1 @@
+NY_NEWS_2 = soup.find(class_='css-1cmu9py esl82me0') 
